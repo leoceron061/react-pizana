@@ -1,0 +1,18 @@
+.search{
+border-bottom: 1px solid white;
+font-family:'Courier Prime', Courier, monospace;
+  
+color: white;
+}
+/* input:focus {
+
+    border: 2px solid #CB8B07;
+} */
+.icon{
+    color: white;
+}
+
+.button{
+    font-family: 'SuperMarioBros';
+    font-size: 1.3rem;
+}
